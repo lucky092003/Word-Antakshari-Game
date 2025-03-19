@@ -10,6 +10,3 @@ step - 5   score is based on your word length
 step - 6   you can also check score streak in mongoDB database 
 
 
-
-
-"D:\Web technologies\Mongodb1\server\Word-Antakshari\Word-Antakshari-Game\Demo Images\1.png"
